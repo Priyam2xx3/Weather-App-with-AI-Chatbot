@@ -46,7 +46,7 @@ weather-app-with-chatbot/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-app-with-chatbot.git
+   git clone https://github.com/priyam2xx3/weather-app-with-chatbot.git
    ```
 
 2. **Obtain API Keys**:
